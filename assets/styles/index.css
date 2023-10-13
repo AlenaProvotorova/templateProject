@@ -1,0 +1,14 @@
+.container {
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+}
+.container .block {
+  text-decoration: underline;
+}
+
+body {
+  color: black;
+}
+
+/*# sourceMappingURL=index.css.map */
